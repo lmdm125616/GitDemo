@@ -7,4 +7,6 @@ public class TestDemo {
 
     public  int  llmmm;
 
+    public  String asd;
+
 }
